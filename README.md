@@ -1,4 +1,4 @@
-# CustomJoinLeave Plugin
+# CustomJoinLeave Plugin (PowerNukkitX)
 <br>
 Works for Bedrock (Minecraft: BE v1.21.110)
 <br>
