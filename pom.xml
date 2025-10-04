@@ -6,7 +6,7 @@
 
     <groupId>dev.sausage</groupId>
     <artifactId>customjoinleave</artifactId>
-    <version>1.02</version>
+    <version>1.03</version>
 
     <properties>
         <maven.compiler.source>21</maven.compiler.source>
