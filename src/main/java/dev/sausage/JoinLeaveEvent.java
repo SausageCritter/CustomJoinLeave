@@ -9,7 +9,7 @@ import cn.nukkit.utils.TextFormat;
 
 public class JoinLeaveEvent implements Listener {
 
-    private PluginBase plugin;
+    private final PluginBase plugin;
 
     public JoinLeaveEvent(Main main) {
         plugin = main;
