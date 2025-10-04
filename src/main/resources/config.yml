@@ -1,0 +1,8 @@
+# %playername% will be replaced with the name of the player
+Join-Message: "&a%playername% joined"
+Leave-Message: "&c%playername% left"
+First-Join-Message: "&6Welcome %playername% to the server!"
+
+# Anyone with the cjl.staff permission will be announced with this
+Announce-Staff-Join: false
+Staff-Join-Message: "&dStaff member %playername% has joined"

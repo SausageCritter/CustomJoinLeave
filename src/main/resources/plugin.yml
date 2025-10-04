@@ -1,0 +1,7 @@
+name: customjoinleave
+main: dev.sausage.Main
+version: "1.0.1"
+api: "2.0.0"
+load: POSTWORLD
+author: Sausage
+description: Let's you change the join/leave messages for your server!
